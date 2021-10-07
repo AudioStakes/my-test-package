@@ -1,1 +1,3 @@
-console.log("@audiostakes/my-test-package")
+const myTestPackage = () => { console.log("@audiostakes/my-test-package") }
+
+module.exports = myTestPackage
